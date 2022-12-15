@@ -112,7 +112,7 @@ table, th, td {
 <body>
 
 <div class="main">
-  <h1>Manohar's TO DO LIST </h1>
+  <h1>TO DO LIST </h1>
 
   <form action="add" class="form" method="get" >
     <input id="inputtask" type="text" placeholder="Enter your task here" name="data" />
