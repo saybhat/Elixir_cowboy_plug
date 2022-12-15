@@ -11,7 +11,7 @@ TODO app built using Elixir Plug and Cowboy
 
 ```sh
 git clone https://github.com/saybhat/Elixir_cowboy_plug.git
-cd  todo_submit
+cd  Elixir_cowboy_plug
 mix deps.get
 mix ecto.create
 mix ecto.migrate
